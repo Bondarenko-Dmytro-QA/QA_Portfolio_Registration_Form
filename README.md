@@ -13,5 +13,6 @@ This portfolio is organized into the following documents:
 *   **[Checklist](Checklist.md):** A high-level list of test ideas and verification points.
 *   **[Test Cases](Test_Cases.md):** A set of detailed, step-by-step scenarios for positive and negative testing.
 *   **[Bug Reports](Bug_Reports.md):** Examples of how defects found during testing are documented.
+*   **[Test Summary Report](Test_Summary_Report.md):** A final report summarizing the testing results and providing a quality assessment.
 
 **Author:** Dmytro Bondarenko
