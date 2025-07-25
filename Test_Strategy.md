@@ -43,6 +43,6 @@ These criteria define when the testing process can start and when it is consider
 #### Exit Criteria (When to stop testing):
 *   All planned test cases have been executed at least once.
 *   There are no open Blocker or Critical severity defects related to the main functionality.
-*   The pass rate for test cases meets the agreed-upon threshold (e.g., 95%).```
+*   The pass rate for test cases meets the agreed-upon threshold (e.g., 95%).
 
----
+
